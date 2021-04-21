@@ -1,1 +1,3 @@
 // red
+
+export default InstaComments;

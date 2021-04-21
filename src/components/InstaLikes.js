@@ -1,1 +1,3 @@
 // orange
+
+export default InstaLikes;

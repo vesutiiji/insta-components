@@ -1,1 +1,3 @@
 // purple
+
+export default InstaHeader;
